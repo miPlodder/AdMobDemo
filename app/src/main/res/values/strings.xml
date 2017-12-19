@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdMobDemo</string>
+    <string name="title_activity_interstitial">InterstitialActivity</string>
+</resources>
